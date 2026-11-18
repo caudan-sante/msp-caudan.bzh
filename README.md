@@ -7,7 +7,7 @@ Toute modification doit être effectuée dans le dépôt source canonique privé
 `caudan-sante/msp-caudan`, puis publiée par son workflow automatisé.
 
 - Branche publiée : `main`
-- Site temporaire : <https://caudan-sante.github.io/msp-caudan.bzh/>
+- Site : destination du dernier déploiement validé (revue ou production)
 - Contenu : artefact statique jetable
 - Récupération : reconstruire et republier depuis le dépôt source privé
 
